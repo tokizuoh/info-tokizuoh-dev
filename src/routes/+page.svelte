@@ -1,5 +1,7 @@
 <script>
-
+    const description = `
+        I'm a software developer in Japan.
+    `
 </script>
 
 <h1>tokizuoh</h1>
@@ -8,7 +10,7 @@
 </p>
 
 <h2>About</h2>
-<p>Hello!</p>
+<p>{description}</p>
 
 <h2>Posts</h2>
 <ul>
