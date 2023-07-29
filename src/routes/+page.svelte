@@ -1,5 +1,6 @@
 <script>
     import Icon from "./Icon.svelte";
+    import Posts from "./Posts.svelte";
     import Links from "./Links.svelte"
     import Copyright from "./Copyright.svelte";
     
@@ -14,13 +15,7 @@
 <h2>About</h2>
 <p>{description}</p>
 
-<h2>Posts</h2>
-<ul>
-    <li>ダジャレで戦うDMM英会話</li>
-    <li>RustでScrapboxのハッシュタグに紐づくページ数を集計するツールを作った</li>
-    <li>2023年6月を振り返る</li>
-</ul>
-
+<Posts />
 <Links />
 <Copyright />
 
