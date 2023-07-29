@@ -34,7 +34,7 @@
 @import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
 
 :global(body) {
-    background-color: rgb(0, 50, 57);
+    background-color: rgb(25, 28, 35); 
     color: #EEEEEE;
 
     width: 800px;
@@ -53,6 +53,7 @@
 
 li {
     margin-bottom: 4px;
+    color: #BBBBBB;
 }
 
 h2 {
@@ -61,16 +62,18 @@ h2 {
 }
 
 p {
-    color: #CFCFCF;
+    color: #BBBBBB;
 }
 
 a {
-    color: #ff6291;
-    text-decoration: none;
+    color: #BBBBBB;
+    text-decoration:underline
 }
 
 a:hover {
-    text-decoration: underline;
+    color: white;
+}
+
 hr.border {
     margin-top: 64px;
     border-color: #BBBBBB;
