@@ -3,6 +3,9 @@
 </script>
 
 <h1>tokizuoh</h1>
+<p>
+    <img id="icon" src="/icon.png" alt="Deformed penguin illustration">
+</p>
 
 <h2>About</h2>
 <p>Hello!</p>
@@ -36,6 +39,11 @@
     margin-bottom: 100px;
 
     font-family: 'Noto Sans JP', sans-serif;
+}
+
+#icon {
+    border-radius:50%;
+    width: 10%;
 }
 
 li {
