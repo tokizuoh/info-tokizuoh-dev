@@ -49,4 +49,13 @@ h2 {
 p {
     color: #CFCFCF;
 }
+
+a {
+    color: #FF487F;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
 </style>
