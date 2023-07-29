@@ -1,6 +1,7 @@
 <script>
     import Icon from "./Icon.svelte";
     import Links from "./Links.svelte"
+    import Copyright from "./Copyright.svelte";
     
     const description = `
         I'm a software developer in Japan.
@@ -21,9 +22,7 @@
 </ul>
 
 <Links />
-
-<hr class="border">
-<p>© 2023 tokizuoh</p>
+<Copyright />
 
 <style>
 @import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
@@ -61,10 +60,5 @@
 }
 p {
     color: #BBBBBB;
-}
-hr.border {
-    margin-top: 64px;
-    border-color: #BBBBBB;
-    
 }
 </style>
