@@ -16,10 +16,10 @@
 
 <h2>Links</h2>
 <ul>
-    <li><a href="https://github.com/tokizuoh">GitHub</a></li>
-    <li><a href="https://tokizuoh.hatenablog.com/">Blog</a></li>
-    <li><a href="https://speakerdeck.com/tokizuoh">Speacker Deck</a></li>
-    <li><a href="https://scrapbox.io/tokizuoh-public/">Scrapbox</a></li>
+    <li><a href="https://github.com/tokizuoh" target="_blank">GitHub</a></li>
+    <li><a href="https://tokizuoh.hatenablog.com/" target="_blank">Blog</a></li>
+    <li><a href="https://speakerdeck.com/tokizuoh" target="_blank">Speacker Deck</a></li>
+    <li><a href="https://scrapbox.io/tokizuoh-public/" target="_blank">Scrapbox</a></li>
 </ul>
 
 <style>
