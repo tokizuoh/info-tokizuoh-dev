@@ -52,7 +52,7 @@ p {
 }
 
 a {
-    color: #FF487F;
+    color: #ff6291;
     text-decoration: none;
 }
 
