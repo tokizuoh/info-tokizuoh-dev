@@ -27,6 +27,9 @@
     <li><a href="https://scrapbox.io/tokizuoh-public/" target="_blank" rel="noopener noreferrer">Scrapbox</a></li>
 </ul>
 
+<hr class="border">
+<p>© 2023 tokizuoh</p>
+
 <style>
 @import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
 
@@ -68,5 +71,9 @@ a {
 
 a:hover {
     text-decoration: underline;
+hr.border {
+    margin-top: 64px;
+    border-color: #BBBBBB;
+    
 }
 </style>
