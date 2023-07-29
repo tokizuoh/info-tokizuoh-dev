@@ -36,4 +36,8 @@
 
     font-family: 'Noto Sans JP', sans-serif;
 }
+
+li {
+    margin-bottom: 4px;
+}
 </style>
