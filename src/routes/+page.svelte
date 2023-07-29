@@ -25,5 +25,11 @@
 :global(body) {
     background-color: rgb(0, 50, 57);
     color: #EEEEEE;
+
+    width: 800px;
+    margin-top: 80px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 100px;
 }
 </style>
