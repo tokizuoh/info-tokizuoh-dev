@@ -1,4 +1,5 @@
 <script>
+    import Icon from "./Icon.svelte";
     import Links from "./Links.svelte"
     
     const description = `
@@ -7,9 +8,7 @@
 </script>
 
 <h1>tokizuoh</h1>
-<p>
-    <img id="icon" src="/icon.png" alt="Deformed penguin illustration">
-</p>
+<Icon />
 
 <h2>About</h2>
 <p>{description}</p>
@@ -60,12 +59,6 @@
 :global(a:hover) {
     color: white;
 }
-
-#icon {
-    border-radius:50%;
-    width: 10%;
-}
-
 p {
     color: #BBBBBB;
 }
