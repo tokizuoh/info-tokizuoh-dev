@@ -1,2 +1,29 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+
+</script>
+
+<h1>tokizuoh</h1>
+
+<h2>About</h2>
+<p>Hello!</p>
+
+<h2>Posts</h2>
+<ul>
+    <li>ダジャレで戦うDMM英会話</li>
+    <li>RustでScrapboxのハッシュタグに紐づくページ数を集計するツールを作った</li>
+    <li>2023年6月を振り返る</li>
+</ul>
+
+<h2>Other Links</h2>
+<ul>
+    <li>GitHub</li>
+    <li>Speacker Deck</li>
+    <li>Scrapbox</li>
+</ul>
+
+<style>
+:global(body) {
+    background-color: rgb(0, 50, 57);
+    color: #EEEEEE;
+}
+</style>
