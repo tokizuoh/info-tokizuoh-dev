@@ -22,6 +22,8 @@
 </ul>
 
 <style>
+@import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
+
 :global(body) {
     background-color: rgb(0, 50, 57);
     color: #EEEEEE;
@@ -31,5 +33,7 @@
     margin-right: auto;
     margin-left: auto;
     margin-bottom: 100px;
+
+    font-family: 'Noto Sans JP', sans-serif;
 }
 </style>
