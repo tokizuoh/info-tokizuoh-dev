@@ -40,4 +40,9 @@
 li {
     margin-bottom: 4px;
 }
+
+h2 {
+    margin-top: 60px;
+    margin-bottom: 0px;
+}
 </style>
