@@ -14,7 +14,7 @@
     <li>2023年6月を振り返る</li>
 </ul>
 
-<h2>Other Links</h2>
+<h2>Links</h2>
 <ul>
     <li><a href="https://github.com/tokizuoh">GitHub</a></li>
     <li><a href="https://tokizuoh.hatenablog.com/">Blog</a></li>
