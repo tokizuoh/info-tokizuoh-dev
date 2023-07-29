@@ -45,4 +45,8 @@ h2 {
     margin-top: 60px;
     margin-bottom: 0px;
 }
+
+p {
+    color: #CFCFCF;
+}
 </style>
