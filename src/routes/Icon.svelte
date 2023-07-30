@@ -1,5 +1,9 @@
+<script>
+    import { base } from '$app/paths';
+</script>
+
 <p>
-    <img id="icon" src="/icon.png" alt="Deformed penguin illustration">
+    <img id="icon" src={`${base}/icon.png`} alt="Deformed penguin illustration">
 </p>
 
 <style>
