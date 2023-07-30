@@ -25,7 +25,6 @@
 
 <h2>Posts</h2>
 {#await load()}
-    <p>ロード中</p>
 {:then links}
     <ul>
         {#each links as l}
