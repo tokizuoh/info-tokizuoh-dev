@@ -1,11 +1,13 @@
-<script>
+<script context="module">
 	import { onMount } from "svelte";
 
-    onMount(() => {
-        fetchItems();
-    });
+    // onMount(() => {
+    //     // fetchItems();
+    //     fetchItems();
+    // });
 
-    async function fetchItems() {
+    // async function fetchItems() {
+    async function load() {
         const parser = new DOMParser();
         const res = await fetch("https://tokizuoh.hatenablog.com/rss?size=5");
         const data = await res.text();
@@ -22,7 +24,7 @@
 </script>
 
 <h2>Posts</h2>
-{#await fetchItems()}
+{#await load()}
     <p>ロード中</p>
 {:then links}
     <ul>
