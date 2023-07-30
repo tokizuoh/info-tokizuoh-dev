@@ -5,7 +5,7 @@
     import Copyright from "./Copyright.svelte";
     
     const description = `
-        I'm a software developer in Japan.
+        I'm working as a software engineer in Japan.
     `
 </script>
 
