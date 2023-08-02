@@ -4,11 +4,13 @@
     import Links from "./Links.svelte"
     import Copyright from "./Copyright.svelte";
     
+    const title = "tokizuoh"
     const description = `
         I'm working as a software engineer in Japan.
     `
 </script>
 
+<title>{title}</title>
 <h1>tokizuoh</h1>
 <Icon />
 
