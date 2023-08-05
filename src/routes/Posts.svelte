@@ -1,12 +1,4 @@
 <script context="module">
-	import { onMount } from "svelte";
-
-    // onMount(() => {
-    //     // fetchItems();
-    //     fetchItems();
-    // });
-
-    // async function fetchItems() {
     async function load() {
         const parser = new DOMParser();
         const res = await fetch("https://tokizuoh.hatenablog.com/rss?size=5");
