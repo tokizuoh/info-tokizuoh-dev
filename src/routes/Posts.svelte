@@ -9,7 +9,6 @@
         }
 
         if (cachedData && !expired) {
-            console.log(cachedData.cachedTime);
             return cachedData.links;
         } else {
             const parser = new DOMParser();
