@@ -35,7 +35,6 @@
     margin-left: auto;
     margin-bottom: 100px;
 
-    font-family: 'Noto Sans JP', sans-serif;
 }
 
 :global(h2) {
