@@ -9,6 +9,6 @@
 <style>
 #icon {
     border-radius:50%;
-    width: 10%;
+    width: 75px;
 }
 </style>
