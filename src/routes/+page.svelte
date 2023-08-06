@@ -11,7 +11,7 @@
 </script>
 
 <title>{title}</title>
-<h1>tokizuoh</h1>
+<h1>tokizo</h1>
 <Icon />
 
 <h2>About</h2>
