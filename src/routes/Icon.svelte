@@ -10,5 +10,6 @@
 #icon {
     border-radius:50%;
     width: 75px;
+    height: 75px;
 }
 </style>
