@@ -23,8 +23,6 @@
 <Copyright />
 
 <style>
-@import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
-
 :global(body) {
     background-color: rgb(25, 28, 35); 
     color: #EEEEEE;
