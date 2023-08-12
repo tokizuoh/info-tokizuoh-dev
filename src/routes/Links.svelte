@@ -1,5 +1,5 @@
 <script>
-    const github_activity_url = "https://github.com/pulls?q=involves%3Atokizuoh+-user%3Atokizuoh"
+    const github_activity_url = "https://github.com/pulls?q=involves%3Atokizuoh+-user%3Atokizuoh++is%3Apublic"
 </script>
 
 <h2>Links</h2>
