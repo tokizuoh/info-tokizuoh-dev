@@ -23,7 +23,11 @@
 <Copyright />
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
+
 :global(body) {
+    font-family: 'Noto Sans JP', sans-serif;
+
     background-color: rgb(25, 28, 35); 
     color: #EEEEEE;
 
