@@ -52,7 +52,7 @@
 
 :global(a) {
     color: #BBBBBB;
-    text-decoration:underline 
+    text-decoration:underline;
 }
 
 :global(a:hover) {
