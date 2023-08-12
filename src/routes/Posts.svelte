@@ -38,7 +38,7 @@
         {#each links as l}
             <li>
                 <div>
-                    <a href="{l[1]}" target="_blank" rel="noopener noreferrer">
+                    <a href="{l[1]}">
                         {l[0]}
                     </a>
                     <div class="pub-date">({l[2]})</div>
