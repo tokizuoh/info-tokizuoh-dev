@@ -33,6 +33,10 @@
     margin-left: auto;
     margin-bottom: 100px;
 
+    @media screen and (max-width: 959px) {
+        margin-left: 24px;
+        margin-right: 24px;
+    }
 }
 
 :global(h2) {
