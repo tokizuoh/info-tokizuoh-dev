@@ -1,6 +1,9 @@
 <script>
+    import Icon from "./Icon.svelte"
+    import Posts from "./Posts.svelte"
     import Links from "./Links.svelte"
-    import Copyright from "./Copyright.svelte";
+    import Works from "./Works.svelte"
+    import Copyright from "./Copyright.svelte"
     
     const title = "tokizuoh"
     const description = `
@@ -16,8 +19,8 @@
 <p>{description}</p>
 
 <Posts />
-<!-- Works -->
 <Links />
+<Works />
 <Copyright />
 
 <style>
