@@ -1,6 +1,4 @@
 <script>
-    import Icon from "./Icon.svelte";
-    import Posts from "./Posts.svelte";
     import Links from "./Links.svelte"
     import Copyright from "./Copyright.svelte";
     
