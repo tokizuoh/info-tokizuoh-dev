@@ -3,7 +3,7 @@
     <li>
         <a href="https://github.com/tokizuoh/swift-9cc">tokizuoh/swift-9cc</a>
         <ul>
-            <li>C compiler written by Swift.</li>
+            <li>C compiler written by Swift</li>
         </ul>
     </li>
     <li>
