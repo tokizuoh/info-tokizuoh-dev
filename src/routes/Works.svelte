@@ -9,7 +9,7 @@
     <li>
         <a href="https://github.com/tokizuoh/faaaar">tokizuoh/faaaar</a>
         <ul>
-            <li>GraphQL Server and homemade GraphiQL.</li>
+            <li>GraphQL Server and Playground</li>
         </ul>
     </li>
 </ul>
