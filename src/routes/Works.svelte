@@ -12,4 +12,10 @@
             <li>GraphQL Server and Playground</li>
         </ul>
     </li>
+    <li>
+        2021 - <a href="https://github.com/tokizuoh/Pieris">Pieris</a>
+        <ul>
+            <li>Script to enumerate swift files containing classes that are not inherited but have no `final`</li>
+        </ul>
+    </li>
 </ul>
