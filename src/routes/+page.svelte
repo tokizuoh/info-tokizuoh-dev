@@ -15,9 +15,6 @@
 <h1>tokizo</h1>
 <Icon />
 
-<h2>About</h2>
-<p>{description}</p>
-
 <Posts />
 <Links />
 <Works />

@@ -3,25 +3,19 @@
     <li>
         2023 - <a href="https://tokizuoh.hatenablog.com/monthly-distance">今月のキョリ</a>
         <ul>
-            <li>iOS App for displays the total distance exercised</li>
+            <li>運動で移動した合計距離を表示するiOSアプリ</li>
         </ul>
     </li>
     <li>
         2023 - <a href="https://github.com/tokizuoh/swift-9cc">swift-9cc</a>
         <ul>
-            <li>C compiler written by Swift</li>
+            <li>Swiftで書いたCコンパイラ</li>
         </ul>
     </li>
     <li>
         2022 - <a href="https://github.com/tokizuoh/faaaar">faaaar</a>
         <ul>
-            <li>GraphQL Server and Playground</li>
-        </ul>
-    </li>
-    <li>
-        2021 - <a href="https://github.com/tokizuoh/Pieris">Pieris</a>
-        <ul>
-            <li>Script to enumerate swift files containing classes that are not inherited but have no `final`</li>
+            <li>GraphQLサーバーとクエリを実行できるプレイグラウンド</li>
         </ul>
     </li>
 </ul>
