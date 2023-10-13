@@ -13,6 +13,4 @@
     <li><a href="https://tokizuoh.hatenablog.com/">Blog</a></li>
     <li><a href="https://speakerdeck.com/tokizuoh">Speacker Deck</a></li>
     <li><a href="https://scrapbox.io/tokizuoh-public/">Scrapbox</a></li>
-    <li><a href="https://atcoder.jp/users/tokizo">AtCoder</a></li>
-    <li><a href="https://qiita.com/tokizuoh">Qiita</a></li>
 </ul>
