@@ -11,5 +11,6 @@
         </ul>
     </li>
     <li><a href="https://tokizuoh.hatenablog.com/">Blog</a></li>
+    <li><a href="https://zenn.dev/tokizuoh">Zenn</a></li>
     <li><a href="https://speakerdeck.com/tokizuoh">Speacker Deck</a></li>
 </ul>
