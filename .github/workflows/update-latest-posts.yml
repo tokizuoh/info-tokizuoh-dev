@@ -26,6 +26,7 @@ jobs:
       - name: Run Isotoma executable
         run: |
           ./Isotoma
+          mv latest_posts.json src/data/
 
       - name: Configure git
         run: |
