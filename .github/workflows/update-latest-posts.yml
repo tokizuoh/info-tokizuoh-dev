@@ -35,7 +35,7 @@ jobs:
 
       - name: Commit generated JSON
         run: |
-          git add latest_posts.json
+          git add src/data/latest_posts.json
           git commit -m "Add generated JSON files"
           git push
         env:
