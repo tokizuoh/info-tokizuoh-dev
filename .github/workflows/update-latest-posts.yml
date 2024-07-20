@@ -20,7 +20,7 @@ jobs:
 
       - name: Download Isotoma executable
         run: |
-          curl -L -o Isotoma https://github.com/tokizuoh/Isotoma/releases/download/1.0/Isotoma
+          curl -L -o Isotoma https://github.com/tokizuoh/Isotoma/releases/download/1.1/Isotoma
           chmod +x Isotoma
 
       - name: Run Isotoma executable
