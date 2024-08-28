@@ -3,7 +3,7 @@
 	<li>
 		2024 - <a href="https://speakerdeck.com/tokizuoh/swift-cocurrency-quiz">Swift Concurrency Quiz: Avoiding Main Thread Blocking</a>
 		<ul>
-			<li>Quiz on Preventing Unintentional Main Thread Blocking with Swift Concurrency</li>
+			<li>Quiz on preventing unintentional main-thread blocking with swift concurrency</li>
 		</ul>
 	</li>
 	<li>
