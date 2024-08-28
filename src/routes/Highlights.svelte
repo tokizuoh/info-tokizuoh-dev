@@ -1,9 +1,9 @@
 <h2>Highlights</h2>
 <ul>
 	<li>
-		2023 - <a href="https://tokizuoh.hatenablog.com/monthly-distance">monthly-distance</a>
+		2024 - <a href="https://speakerdeck.com/tokizuoh/swift-cocurrency-quiz">Swift Concurrency Quiz: Avoiding Main Thread Blocking</a>
 		<ul>
-			<li>iOS app that displays the total distance traveled through exercise</li>
+			<li>Quiz on Preventing Unintentional Main Thread Blocking with Swift Concurrency</li>
 		</ul>
 	</li>
 	<li>
