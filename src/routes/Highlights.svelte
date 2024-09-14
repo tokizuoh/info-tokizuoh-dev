@@ -2,7 +2,7 @@
 <ul>
 	<li>
 		2024 - <a href="https://speakerdeck.com/tokizuoh/swift-cocurrency-quiz"
-			>Swift Concurrency Quiz: Avoiding Main Thread Blocking</a
+			>メインスレッドをブロックさせないためのSwift Concurrencyクイズ</a
 		>
 		<ul>
 			<li>iOSDC Japan 2024にて登壇したSwift Concurrencyクイズのスライド</li>
