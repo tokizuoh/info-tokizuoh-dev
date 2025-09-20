@@ -34,26 +34,4 @@
 			</li>
 		</ul>
 	</li>
-	<li>
-		2023
-		<ul>
-			<li>
-				<a href="https://github.com/tokizuoh/swift-9cc">tokizuoh/swift-9cc</a>
-				<ul>
-					<li>Swiftで書いたCコンパイラ</li>
-				</ul>
-			</li>
-		</ul>
-	</li>
-	<li>
-		2022
-		<ul>
-			<li>
-				<a href="https://github.com/tokizuoh/faaaar">tokizuoh/faaaar</a>
-				<ul>
-					<li>GraphQLサーバーとクエリを実行する自作プレイグラウンド</li>
-				</ul>
-			</li>
-		</ul>
-	</li>
 </ul>
