@@ -1,5 +1,5 @@
 <hr class="border">
-<p>© 2025 tokizo</p>
+<p>© 2026 tokizo</p>
 
 <style>
 hr.border {
