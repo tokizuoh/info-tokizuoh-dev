@@ -1,6 +1,6 @@
 <script>
 	const github_activity_url =
-		'https://github.com/pulls?q=involves%3Atokizuoh+-user%3Atokizuoh++is%3Apublic';
+		'https://github.com/search?q=involves%3Atokizuoh+is%3Apr+is%3Apublic&type=pullrequests';
 </script>
 
 <h2>Links</h2>
