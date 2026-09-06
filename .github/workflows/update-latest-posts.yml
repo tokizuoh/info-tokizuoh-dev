@@ -36,6 +36,10 @@ jobs:
       - name: Commit generated JSON
         run: |
           git add src/data/latest_posts.json
+          if git diff --cached --quiet; then
+            echo "記事一覧に変更なし"
+            exit 0
+          fi
           git commit -m "Add generated JSON files"
           git push
         env:
