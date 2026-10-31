@@ -42,5 +42,7 @@ jobs:
           fi
           git commit -m "Add generated JSON files"
           git push
+          # GITHUB_TOKEN による push では deploy.yml の push トリガーが起動しない
+          gh workflow run deploy.yml --ref develop
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
